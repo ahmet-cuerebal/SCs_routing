@@ -1,0 +1,6 @@
+*
+!.gitignore
+!MSCRB_Model.py
+!MSCRB_Algorithms.py
+!MSCRB_instances/
+!MSCRB_instances/**
