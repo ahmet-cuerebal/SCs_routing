@@ -1,0 +1,10 @@
+cff-version: 1.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Metaheuristic Approaches for the Manhattan Metric Straddle Carrier Routing Problem with Buffer Areas"
+authors:
+  - family-names: "Ahmet"
+    given-names: "Cürebal"
+    orcid: "https://orcid.org/0000-0002-1031-659X9"
+version: 0.1
+date-released: 2025-12-19
+url: "https://github.com/ahmet-cuerebal/SCs_routing"
