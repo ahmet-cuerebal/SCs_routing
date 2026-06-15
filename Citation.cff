@@ -6,6 +6,6 @@ authors:
   - family-names: "Cürebal"
     given-names: "Ahmet"
     orcid: "https://orcid.org/0000-0002-1031-659X"
-version: "0.1.0"
+version: "1.0.0"
 date-released: "2025-12-19"
 url: "https://github.com/ahmet-cuerebal/SCs_routing"
